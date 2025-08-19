@@ -1,4 +1,4 @@
-# Unifaat :: Frontend :: Aula 01 - Servidor de arquivos estáticos e Introdução a HTML e DOM <a name="unifaat-frontend-aula01-server-html-jsdom"></a>
+# Unifaat :: Frontend :: Aula 01 - Servidor de arquivos estáticos e Introdução a HTML e DOM <a name="unifaat-frontend-tf-aula01-server-html-jsdom"></a>
 
 ## 📑 Sumário
 1. [Instalação e Execução](#instalacao-e-execucao)  
@@ -15,13 +15,13 @@
 1. Clonar o repositório:
 
    ```sh
-   git clone https://github.com/luan-tavares/unifaat-frontend-aula01-server-html-jsdom
+   git clone https://github.com/luan-tavares/unifaat-frontend-tf-aula01-server-html-jsdom
    ```
 
 2. Entrar na pasta do projeto:
 
    ```sh
-   cd unifaat-frontend-aula01-server-html-jsdom
+   cd unifaat-frontend-tf-aula01-server-html-jsdom
    ```
 
 3. Criar o arquivo `.env` na raiz do projeto copiando o `.env.example`:
