@@ -12,7 +12,7 @@
 
 ### Siga os passos abaixo para rodar o projeto via Docker:
 
-1. Clonar o repositório:
+1. Clonar o repositório
 
    ```sh
    git clone https://github.com/luan-tavares/unifaat-frontend-tf-aula01-server-html-jsdom
